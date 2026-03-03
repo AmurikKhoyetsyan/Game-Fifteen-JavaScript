@@ -2,7 +2,7 @@
 
 <br />
 
-[Game Page](https://amurkhoyetsyan.github.io/Game-Fifteen-JavaScript/)
+[Game Page](https://amurikkhoyetsyan.github.io/Game-Fifteen-JavaScript/)
 
 <img src="./gif/gamefifteen.gif" alt="Game fifteen" />
 
